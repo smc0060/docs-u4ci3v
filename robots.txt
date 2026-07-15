@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://blog-boq5ml.indocuansite.space/sitemap.xml
